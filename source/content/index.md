@@ -1,5 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: The Stormlight Archive Notes
 ---
 
 <br>
