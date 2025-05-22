@@ -1,0 +1,11 @@
+- House Davar, from [[Jah Keved]]
+- Auburn-red hair (“not a single lock of proper black) with some freckles
+- Has some type of special magical power / photographic memory (Memory)
+	- `As if her mind was put under tension holding Memories until they could be used.`
+	- `When she collected a Memory of a person, she was snipping free a bud of their soul, and she cultivated and grew it on the page.`
+	- `she took a Memory of him sitting there`
+- Very faithful?
+	- `Would she demand that Shallan renounce her faith? She doubted she could do such a thing. Vorin teachings regarding one’s Glory and Calling had been one of her few refuges during the difficult days, when her father had been at his worst.`
+- She mostlikely has a Shardblade:
+	- `She raised her freehand to her head, suddenly overwhelmed by the weight of House Davar’s situation, her part in it, and the secret she now carried, hidden ten heartbeats away.`
+	- Shallan memory: `Nan Balat bruised, his coat torn. A long, silvery sword in her hand, sharp enough to cut stones as if they were water.`

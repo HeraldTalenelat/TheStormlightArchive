@@ -1,0 +1,4 @@
+- `A wrapping of the air, like the wind itself become visible`
+- Shash - Glyph for dangerous slaves
+- `Honor died eight months ago`
+- Kaladin longed to lie there, staring at the sky, oblivious of the world. His training, however, warned that might cause him to cramp up. That would make the return trip even worse. That training…it belonged to another man, from another time. **Almost from the shadowdays**. But while Kaladin might not be him any longer, he could still heed him. (Exageracion supongo?)

@@ -1,0 +1,3 @@
+- `In Vorin belief, one’s Calling—the task to which one dedicated one’s life—was of vital importance. Choosing a good profession and working hard at it was the best way to ensure good placement in the afterlife. The specific devotary that one visited for worship often had to do with the nature of one’s chosen Calling.`
+- `He was a brightlord, chosen at birth by the Heralds, marked for rule.`
+- `Vorin teachings regarding one’s Glory and Calling`

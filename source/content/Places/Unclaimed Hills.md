@@ -1,0 +1,1 @@
+- `This far into the Unclaimed Hills, the highstorms were incredibly powerful: Highstorms are more powerful in some areas?`

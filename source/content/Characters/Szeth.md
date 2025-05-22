@@ -1,0 +1,3 @@
+- The things he does with Stormlight have not been seen in milenia
+- He did not own a Shardplate: His Lashings interfered with the gemstones that powered Shardplate, and he had to choose one or the other.
+- The Assasin in White

@@ -1,0 +1,1 @@
+Captain of the ship that brings [[Shallan]] to [[Kharbranth, City of Bells|Kharbranth]]. Thaylen calm and cautrion man, excelent sailor but pagan
