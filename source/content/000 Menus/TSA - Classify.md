@@ -1,4 +1,4 @@
-> Interesting sentences, words or ideas that might or might not be of relevance. Noted here for quick searching, moved to their respective sections if necessary
+> Interesting sentences, words or ideas that might or might not be of relevance. Noted here for quick searching, moved to their respective sections if necessary or when more information is available.
 
 
 - Check the chapter intros (**Deathrattles** dijo Raul). Some type of vision people have before dying? Someone is recording the facts so it might be important
@@ -11,11 +11,3 @@
 
 - **The Passions**, pagan superstition
 	- `But I do knwo the Passions`, `The Passions. Pagan superstition`
-
-Hierocracy
-- `is a single volume survey of Rosharan history since the Hierocracy.`
-
-Recreance
-- `The five Vorin kingdoms? She’d thought there were four. Jah Keved, Alethkar, Kharbranth, and Natanatan. United by religion, they had been strong allies during the years following the Recreance. What was the fifth kingdom?`
-
-- `He’d learned from old Vathe in Shorse broon, the nearest town of any size.`

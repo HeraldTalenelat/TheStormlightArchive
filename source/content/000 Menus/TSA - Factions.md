@@ -6,3 +6,5 @@ A faction of devouts to Vorin Theology. They control Soulcasting and Soulcasters
 
 Ardents travel the land, helping people with their Glories and Callings
 - `They had traveled his lands and visited the villages, ministering to the people, helping them reach Points in their Glories and Callings.`
+
+![[TSA - History#Other Factions / groups]]
