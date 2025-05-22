@@ -1,5 +1,5 @@
 ---
-Note: Yes
+title: My GitHub Pages Notebook!
 ---
 
 <br>
