@@ -6,7 +6,7 @@ The order seems to be Recreance → Hierocracy → Last Desolation (end of the S
 - `The five Vorin kingdoms? She’d thought there were four. Jah Keved, Alethkar, Kharbranth, and Natanatan. United by religion, they had been strong allies during the years following the Recreance. What was the fifth kingdom?`
 
 ## Hierocracy
-Past important event
+Past important event, probably related to the Vorin Theology and its power / Vorin Kingdoms
 - `is a single volume survey of Rosharan history since the Hierocracy.`
 - `One book she’d read claimed that Kharbranth had been founded way back into the shadowdays, years before the Last Desolation. That would make it old indeed. Thousands of years old, created before the terrors of the Hierocracy, long before—even—the Recreance. Back when Voidbringers with bodies of stone were said to have stalked the land.`
 
