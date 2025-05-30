@@ -6,6 +6,9 @@
 > **Capital:** Vedenar?
 > **Ruler:**
 
-- “Towering” region → maybe mountains?
+- “Towering” region
 - House Davar (Shallan) homeplace
 - `The Veden Church is by far the most traditional`
+- Horneater Peaks
+	- Bavland (South of the Peaks)
+		- Ironsway, town in Bavland

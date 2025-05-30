@@ -1,6 +1,6 @@
 # Moons & Cosmos
 - **Salas:** First Moon. Violet incolor, but is the smallest and dimmest of the moons, not much help to illuminate
-- **Nomon** The middle moon: Pale blue light
+- **Nomon:** The middle moon: Pale blue light. Called Second Sister in [[Shinovar]]
 - **Taln’s Scar:** A swath of deep red stars
 
 # Highstorms
@@ -13,7 +13,7 @@ Extremely powerful storms, that infuse gems with Stormlight. They have several p
 	- `The things that walked the storms—perhaps even the Stormfather himself—weren’t nearly so deadly as the rocks and branches cast up into the air. In fact, the storm’s initial tempest of water and wind—the stormwall—was the most dangerous part. The longer one endured after that, the weaker the storm grew, until the trailing edge was nothing more than sprinkling rain.`
 	- `It wasn’t quite the riddens yet—the period near the end of a highstorm when the rain sprinkled softly. This rain was still heavy, the wind still gusting on occasion.`
 	- `Lirin had once explained that highstorm rains were rich with nutrients. Stormwardens in Kholinar and Vedenar had proven that plants given storm water did better than those given lake or river water. Why was it that scientists were so excited to discover facts that farmers had known for generations and generations?`
-
+	- Weepings mark the end of a year: `when he was twenty Weepings old`
 # Seasons
 `Weather and seasons were unpredictable. You never knew how long they would go on, though typically each would last a few weeks`
 

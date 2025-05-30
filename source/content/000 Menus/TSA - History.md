@@ -36,15 +36,20 @@ The ten Heralds from ancient [[Vorin theology]]. They made an **Oathpact** which
 - **Ishar**, **Ishi**
 - **Shalash**: his statue had been removed by king [[Gavilar Kholin]]
 - **Vedelev**: `By Vedelev's golden keys, Brightness!`
+- **Nalan’Eilin**
+- **Battar**
 
 Additional info
 - `The Heralds were wise beyond our understanding.`
 - `“The Heralds were sent to teach mankind,” Lirin said. “They led us against the Voidbringers after we were cast from heaven. The Radiants were the orders of knights they founded.”“Who were demons.”“Who betrayed us,” Lirin said, “once the Heralds left.” Lirin raised a finger. “They were not demons, they were just men who had too much power and not enough sense. Either way, you are always to wash your hands. You can see the effect it has on rotspren with your own eyes, even if deathspren cannot be seen.”`
 
+# Vorinism Religion thoughts/summary
+Men originally came from the Tranquiline Halls, a paradise. They were cast out by the Voidbringers, and came to Roshar. Here, they fought the Voidbringers in repeated battles known as Desolations, aided by the Heralds, divine warriors chosen by the Almighty. Eventually, the Heralds abandoned their Oaths, and the Desolations ceased. When people die, their souls are believed to go reclaim the Tranquiline Halls, fighting alongside the Heralds in the afterlife.
+
 # Other Factions / groups
 
 ## Knights Radiant
-A faction created by the Heralds, sometimes called simply **Radiants**. They were the first users of Shardblades, ages ago, and used them to fight `horrors of rock and flame, dozens of feet tall, foes whose eyes burned with hatred. The Voidbringers.`. Most likely refering to [[Hobbies/TSANotes/TSA - Wildlife#Voidbringers|Thunderclasts]] from the epilogue
+A faction created by the Heralds, sometimes called simply **Radiants**. They were the first users of Shardblades, ages ago, and used them to fight `horrors of rock and flame, dozens of feet tall, foes whose eyes burned with hatred. The Voidbringers.`. Most likely refering to [[TSA - Wildlife#Voidbringers|Thunderclasts]] from the epilogue
 
 Some of them, possibly called the **Lost Radiants** betrayed “us” (humanity?) after the Heralds left. Men corrupted by power.
 - `The Radiants were the orders of knights they [Heralds] founded.”“Who were demons.”“Who betrayed us,” Lirin said, “once the Heralds left.” Lirin raised a finger. “They were not demons, they were just men who had too much power and not enough sense. Either way, you are always to wash your hands. You can see the effect it has on rotspren with your own eyes, even if deathspren cannot be seen.”`

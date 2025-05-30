@@ -1,3 +1,8 @@
 - The things he does with Stormlight have not been seen in milenia
 - He did not own a Shardplate: His Lashings interfered with the gemstones that powered Shardplate, and he had to choose one or the other.
 - The Assasin in White
+- Mention of Thrill, but not capitalized
+	- `Feeling a thrill at the contest, Szeth dashed forward and attacked downward with an overhand blow`
+	- `By then, Szeth had stood only in a loincloth. His honor had forced him to discard the white clothing, as it would have made him easier to recognize. He had to preserve himself so that he could suffer.`
+- Surgebinder + Windrunner
+	- `What would these men say if they knew that the man who emptied their chamber pot was a Shardbearer and a Surgebinder? A Windrunner, like the Radiants of old?`

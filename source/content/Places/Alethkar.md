@@ -11,19 +11,10 @@
 ## Royal Familly 
 The royal family owns at least one Shardblade and one Shardplate (somewhat destroyed?)
 
-- **Gavilar Kholin**: King (deceased) very devout to Vorin theology and great swordsman
-- **Dalinar Kholin**: brother of Gavilar. Honorable and good man
-    - `The best of men, the most honorable Shardbearer. They say he’s never broken his word`
-- **Jasnah Kholin**: daughter of Gavilar
-- **Elhokar Kholin**: Son of Gavilar and heir (current King)
+![[TSA - Characters#House Kholin]]
 
 ## Highprinces
-Ten in total, each ruling a region of Alethkar:
--  Sadeas
-	- Brightlord Amaram
-- Valam
-	- House Davar (Shallan Family)
-- Dalinar
+![[TSA - Characters#Highprinces]]
 
 # Social Structure
 Social status based on eye color:
@@ -45,6 +36,11 @@ Safehand/Freehand stuff
 - Alethi also use sotmlight as decorations for their outfits and jewelry
 - *Ward*: A sort of apprentice/servant/stundent of a scholar lighteyes, that trains the pupil
 - The *Vengance Pact*: The kings army (the armies of the Ten Highprinces) went to kill the Parshendi in revenge for king Gavilar’s death. However, something is up, the was is being fought in a weird af place, [[Shattered Plains#Important|they are looking for something]] etc etc. In addition, the war is not only with the Parshendi, but a cold war between Highprinces as well.
+	- `The highprinces give lip service to Elhokar, but this war—this siege—is a game to them. A competition against one another.`
+	- `“What of the Vengeance Pact? The highprinces vowed to seek retribution upon the Parshendi!”`
+	- Shattered if highprinces duel: ` Surely you would not say that, as such an insult would demand that I summon my Blade and seek your blood. Shatter the Vengeance Pact.`
+- Did the Alethi knwo about gemhearts or not?
+	- `Except, Dalinar hadn’t anticipated the gemhearts.`
 - The Honor Chasm
 	- `Honor Chasm, the bridgemen called it, for it was the place where they could make the one decision left to them. The “honorable” decision. Death.`
 - `He’d learned from old Vathe in Shorse broon, the nearest town of any size.`

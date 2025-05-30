@@ -7,7 +7,7 @@ Alias: The Stormlight Archive Notes
 
 ---
 
-#                             [[TSA - Sessions | Sessions]]                                   [[TSA - Thoughts| Thoughts]]
+#                             [[TSA - Sessions | Sessions]]                                   [[TSA - Predicts| Predicts]]
 
 ---
 

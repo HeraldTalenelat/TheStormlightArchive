@@ -15,6 +15,11 @@ Five in total, they follow the [[Vorin Theology]] (`The five Vorin kingdoms? She
 - [[Sela Tales]]
 - [[Azish]]
 - [[Herdaz]]
+- [[Purelake]]
+- [[Makabaki]]?
+- [[Emuli]]?
+- [[Unkalaki]] (Horneaters, south of Jah Keved)
+- [[Irali]]
 
 # Other Places
 - [[Unclaimed Hills]]

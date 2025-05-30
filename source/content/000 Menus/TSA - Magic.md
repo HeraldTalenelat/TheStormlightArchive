@@ -41,19 +41,35 @@ Special magic that allows to transform one material into another. Consumes storm
 - They do not cut the living flesh just the sould of creatures. 
 - Shardblades are not as powerful as Kalaks blade (or other’s Heralds Blades presumably)
 - They take ten beats to be summoned
+	- `Ten heartbeats. That was how long it took to summon a Shardblade. If Dalinar’s heart was racing, the time was shorter. If he was relaxed, it took longer.`
 - Kills someone if it touches your spine. For arms/legs, only makes that arm unusable forever.
 - Ordinary men didn’t kil Shardbearers. It had happened so infrequently that each occurence was now legendary
 
 ## Shardplate
 - Glistening blue armor made of smoothly interlocking plates and no leather or mail at the joints. 
-- Counters Shardblades, and is powered by Stormlight crystals in the chest.
+- Counters Shardblades, and is powered by 5 Stormlight crystals in the chest.
 - Counters Lashings, as they cannout be used directly on someone wearing Shardplate
-- Physically enhances its user, making him stronger, supernaturally fast, 
+- Physically enhances its user, making him stronger, supernaturally fast
+	- `One’s muscles reacted with increased speed, strength, and dexterity when wearing the armor, and it took practice to use it correctly.`
+	- `Plate-assisted legs propelling him up some eight feet`
+	- `the Plate lending him the strength of many men`
+- Puede romperse con golpes normales, no solo Sharblades
+	- `The king rolled, cape wrapping around his body, then came to rest. He lay dazed for a moment; the armor was cracked on one shoulder, leaking Stormlight. The Plate would have cushioned the fall. He’d be all right.`
+- `No! he thought, getting a gauntleted hand beneath himself and heaving, using the momentum of his slide to throw himself upright. As the sky spun, something seemed to right, as if the Plate itself knew which way was up. He landed—still moving, feet grinding on stone.`
+- It regenerates automatically
+	- `The lad’s breastplate still bore a web of cracks, though it had stopped leaking Stormlight. With time, the armor would repair itself. It could reform even if it was completely shattered.`
+
+## Shardbows (Grandbows)
+`They had brought grandbows: large steel bows with thick strings and such a high draw weight that only a Shardbearer could use them, to fire shafts as thick as three fingers. They were recent creations, devised by Alethi engineers through the use of fabrial science, and each required a small infused gemstone to maintain the strength of its pull without warping the metal. Adolin’s aunt Navani—the widow of King Gavilar, mother of Elhokar and his sister Jasnah—had led the research to develop the bows.`
 
 ## Fabrials
 Devices that work using Stormlight as energy
-- `A Soulcaster—the word was used for both the people who performed the process and the fabrial that made it possible.`
-- `The town’s only fabrial clock sat here on the counter. The small device bore a single dial at the center and a glowing Smokestone at its heart; it had to be infused to keep the time. Nobody else in the town cared about minutes and hours as Lirin did.`
+- Fabrial Clock: `The town’s only fabrial clock sat here on the counter. The small device bore a single dial at the center and a glowing Smokestone at its heart; it had to be infused to keep the time. Nobody else in the town cared about minutes and hours as Lirin did.`
+- Freezer: `Chilled, using one of the new fabrials that could make things cold.`
+- Heater: `Several large rubies glowed brightly, set atop poles, with worked golden tines holding them in place. They were fabrials that gave off heat, though there was no fire involved. He didn’t understand how fabrials worked, though the more spectacular ones needed large gemstones to function.`
+- Robot: 
 
 ### Soulcaster
 A type of fabrial, used for Soulcasting
+- `A Soulcaster—the word was used for both the people who performed the process and the fabrial that made it possible.`
+- `Beyond that, the larger a gemstone was when used by a Soulcaster, the less likely it was to shatter. Enormous gemheart stones offered near-limitless potential.`
