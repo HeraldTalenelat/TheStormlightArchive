@@ -12,7 +12,7 @@
 	- La palabra honor se menciona 500 veces en la primera parte que hemos leido
 - **Dalinar cheeseando su promesa  a Renarin y no dandole la shardblade** (predict en el chat de raul)
 - **Gavilar tiene una piedra negra** rara, que va a usar para algo o tiene algun **poder que desconocemos**. **Para evitarlo, los Parshendi lo asesinasn**, aunk no consiguem pillar la piedra (tampoco parece que la quieran dado que no ordenan a szeth que la coja, asi que quiza no sabian que Gailar tenia la piedra). En cualquier caso la piedra es algo podereoso, y contiene una especie de luz negra? Algo relacionado con el vacio?
-	- Rey sospechando de restares, thaidakar, sadeas
+	- Rey sospechando de Restares, Thaidakar, Sadeas?
 	- Sorprendiendose de que lo hacen los parshendi
 	- Segun Carlos los parshendi quieren la guerra y por eso mataron al rey para provocarla. El motivo es que quieren que se desarrolle una guerra en las Shattered Plains, seguramente porque asi trigerean deathrattles que son visiones importantes para ellos. Desde mi POV no es que quieran hacer la guerra ahi en concreto y lo de los deathrattles me parece un porraco gordo, simplemente es un sitio muy bueno para defender cuando te enfrentas a una fuerza superior.
 	- Finalmente Carlos dice que los Parshendi quieren algo de debajo de las Shattered Plains, que quiza hay algo debajo de ellas. No me parece mala teoria, ya hice predict en la sesion 1 de que las Shattered Plains parecian un crater de un meteorito o como mucho el centro de una explosion enorme. En caso de que fuera lo primero, podria ser que el meteorito tubiera algo de valor sin duda.
@@ -23,12 +23,6 @@
 # Ideas
 No los considero predicts como tal, pero detalles menores o ideas en mente
 
-
-- Parshmendi (more info here [[Shattered Plains#Important]])
-	- Why did they break the treaty? Something to do with Honor’s death? 
-	- What is Alethkar looking for in the Shattered Plains? Seems of relevance to go to war in such an uncomfrotable place
-	- How do Parshmendi traverse this terrain (why not used by Alethi?)? Secret tunels? Creatures/mounts (not described so far + not used by alethi)? Body strengthening magic to jump?
-		- Confirmed in the second part they jump, so they must have some sort of enhancing magic?
 - **Keep an eye on number 10:** algo pasa aqui, a Sanderson le gustan estos detallitos e igual que metio todo lo del 16 en Mistborn aqui hay algo con el 10.
 	- Ten Heralds, 
 	- Ten gemstones
@@ -58,10 +52,15 @@ No los considero predicts como tal, pero detalles menores o ideas en mente
 	- [[Shallan]]
 	- Shardbearer that kills Cenn - [[Unnamed Shardblade]]
 	- Gavilars sword - [[Gavilar’s Shardblade]]
-The **Origin** is were storms start, and they become weaker and weaker the further they travel, so Shinovar might barely have any storms?
-- `looking eastward, toward the Origin—the distant, the unseen place where highstorms began.`
-- `His father said no ship had ever sailed for the Origin of Storms and returned safely`
-- The letter in chapter epigraphs: 
+- The **Origin** is were storms start, and they become weaker and weaker the further they travel, so Shinovar might barely have any storms?
+	- `looking eastward, toward the Origin—the distant, the unseen place where highstorms began.`
+	- `His father said no ship had ever sailed for the Origin of Storms and returned safely`
+- Why did Kaladin become a slave?
+	- He got betrayed: `That was before he’d lost his brother, before he’d been betrayed in Amaram’s army.`
+	- He killed a Lighteyes, pero raul dijo que no es el del campo de batalla, que eso no seria un crimen
+	- Did he then kill Amaram?
+		- Esta medio picado con él: `“Aye. The best of men, the most honorable Shardbearer in the king’s army. They say he’s never broken his word.”Kaladin sniffed in disdain. Much the same had been said about Amaram.`
+- **The letter** in chapter epigraphs: 
 	- Ati era un buen hombre, y aun asi su esquirla (Ruina) lo convirtio y transformo en alguien malo
 	- *Ryse, sera el portador de la esquirla que se ha cargado a Honor.* 
 	- Es esquirla es algo malo de cojones, y Rayse ya era un hijo de puta antes de pillarla, asi que el autor esta asustado de que coño sera este tio ahora
@@ -82,9 +81,6 @@ Ati was once a kind and generous man, and you saw what became of him. Rayse, on 
 He holds the most frightening and terrible of all of the Shards. Ponder on that for a time, you old reptile, and tell me if your insistence on nonintervention holds firm. Because I assure you, Rayse will not be similarly inhibited.
 ```
 
-
-
-
 # Classify
 
 - Spanreed? Algun tipo de magia de comunicacion de largo alcance?
@@ -99,13 +95,7 @@ He holds the most frightening and terrible of all of the Shards. Ponder on that 
 	- `The Thrill sang at him`
 	- `Dalinar’s own blood felt hot, the Thrill tempting him, but he shoved it down. No. Not here. Not now. Not while Elhokar needed them.`
 
-
-
-
-
 The Alethi War Codes
-
-
 
 The Heraldic forces
 - `When the king had been given the initial estimate, he had brushed aside the deaths, indicating that they’d be rewarded for their valor with positions in the Heraldic Forces above.`
