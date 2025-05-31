@@ -10,13 +10,20 @@
 	- Episode 2: Honor is dead 
 	- Kaladin: `Honor died eight months ago`
 	- La palabra honor se menciona 500 veces en la primera parte que hemos leido
-- Dalinar cheeseando su promesa  a Renarin y no dandole la shardblade (predict en el chat de raul)
+- **Dalinar cheeseando su promesa  a Renarin y no dandole la shardblade** (predict en el chat de raul)
+- **Gavilar tiene una piedra negra** rara, que va a usar para algo o tiene algun **poder que desconocemos**. **Para evitarlo, los Parshendi lo asesinasn**, aunk no consiguem pillar la piedra (tampoco parece que la quieran dado que no ordenan a szeth que la coja, asi que quiza no sabian que Gailar tenia la piedra). En cualquier caso la piedra es algo podereoso, y contiene una especie de luz negra? Algo relacionado con el vacio?
+	- Rey sospechando de restares, thaidakar, sadeas
+	- Sorprendiendose de que lo hacen los parshendi
+	- Segun Carlos los parshendi quieren la guerra y por eso mataron al rey para provocarla. El motivo es que quieren que se desarrolle una guerra en las Shattered Plains, seguramente porque asi trigerean deathrattles que son visiones importantes para ellos. Desde mi POV no es que quieran hacer la guerra ahi en concreto y lo de los deathrattles me parece un porraco gordo, simplemente es un sitio muy bueno para defender cuando te enfrentas a una fuerza superior.
+	- Finalmente Carlos dice que los Parshendi quieren algo de debajo de las Shattered Plains, que quiza hay algo debajo de ellas. No me parece mala teoria, ya hice predict en la sesion 1 de que las Shattered Plains parecian un crater de un meteorito o como mucho el centro de una explosion enorme. En caso de que fuera lo primero, podria ser que el meteorito tubiera algo de valor sin duda.
+- **Spren are parts of the Shard/Shards of Roshar**, just as humans had part of the shards power in misstborn
+- **Vedelev is one of the Heralds**: No creo que sea tampoco ningun secreto sus nombres, pero lo mencionan cursing asi que most likely uno de los Heraldos
+	- `By Vedelev's golden keys, Brightness!`
 
 # Ideas
 No los considero predicts como tal, pero detalles menores o ideas en mente
 
-- **Vedelev is one of the Heralds**: No creo que sea tampoco ningun secreto sus nombres, pero lo mencionan cursing asi que most likely uno de los Heraldos
-	- `By Vedelev's golden keys, Brightness!`
+
 - Parshmendi (more info here [[Shattered Plains#Important]])
 	- Why did they break the treaty? Something to do with Honor’s death? 
 	- What is Alethkar looking for in the Shattered Plains? Seems of relevance to go to war in such an uncomfrotable place
@@ -31,11 +38,11 @@ No los considero predicts como tal, pero detalles menores o ideas en mente
 	- El altar de los templos Vorin a 10ft de altura
 	- 10 Honorblades
 	- Ten fundamentals Glyphs
+	- Ten orders.
 - Check the chapter intros (**Deathrattles** dijo Raul). Some type of vision people have before dying? Someone is recording the facts so it might be important
 - Several types of blood: red, violet organe
 - **Ten Essences**
 	- `Each of the Ten Essences had an analogous part of the human body—blood for liquid, hair for wood, and so forth. The eyes were associated with crystal and glass. The windows into a person’s mind and spirit.`
-
 - **The Passions**, pagan superstition
 	- `But I do knwo the Passions`, `The Passions. Pagan superstition`
 - [[Gavilar Kholin]] says “The most important words a man can say”. Something related to the second book, “Words of Radiance?”. This book might also be related to the Knights Radiant?
@@ -51,6 +58,32 @@ No los considero predicts como tal, pero detalles menores o ideas en mente
 	- [[Shallan]]
 	- Shardbearer that kills Cenn - [[Unnamed Shardblade]]
 	- Gavilars sword - [[Gavilar’s Shardblade]]
+The **Origin** is were storms start, and they become weaker and weaker the further they travel, so Shinovar might barely have any storms?
+- `looking eastward, toward the Origin—the distant, the unseen place where highstorms began.`
+- `His father said no ship had ever sailed for the Origin of Storms and returned safely`
+- The letter in chapter epigraphs: 
+	- Ati era un buen hombre, y aun asi su esquirla (Ruina) lo convirtio y transformo en alguien malo
+	- *Ryse, sera el portador de la esquirla que se ha cargado a Honor.* 
+	- Es esquirla es algo malo de cojones, y Rayse ya era un hijo de puta antes de pillarla, asi que el autor esta asustado de que coño sera este tio ahora
+	- La conversacion es entre dios tios poderosos, uno de ellos reptiliano? que aboga por no intervenir (seguramente en Roshar con Rayse y su asesinato) mientras que el autor si que quiere intervenir. Personajes con este nivel de conocimiento no han salido muchos, y justamente uno de los que entra en esa descirpcion ya ha sido mencionado haciendo cositas por Roshar: *Hoid, asi que es una alta posibilidad de que sea él.*
+
+```
+Old friend, I hope this missive finds you well. Though, as you are now essentially immortal, I would guess that wellness on your part is something of a given.
+
+I realize that you are probably still angry. That is pleasant to know. Much as your perpetual health, I have come to rely upon your dissatisfaction with me. It is one of the cosmere’s great constants, I should think.
+
+Let me first assure you that the element is quite safe. I have found a good home for it. I protect its safety like I protect my own skin, you might say.
+
+You do not agree with my quest. I understand that, so much as it is possible to understand someone with whom I disagree so completely.
+Might I be quite frank? Before, you asked why I was so concerned. It is for the following reason:
+
+Ati was once a kind and generous man, and you saw what became of him. Rayse, on the other hand, was among the most loathsome, crafty, and dangerous individuals I had ever met.
+
+He holds the most frightening and terrible of all of the Shards. Ponder on that for a time, you old reptile, and tell me if your insistence on nonintervention holds firm. Because I assure you, Rayse will not be similarly inhibited.
+```
+
+
+
 
 # Classify
 
@@ -66,26 +99,13 @@ No los considero predicts como tal, pero detalles menores o ideas en mente
 	- `The Thrill sang at him`
 	- `Dalinar’s own blood felt hot, the Thrill tempting him, but he shoved it down. No. Not here. Not now. Not while Elhokar needed them.`
 
-- Letter:
-	- `Old friend, I hope this missive finds you well. Though, as you are now essentially immortal, I would guess that wellness on your part is something of a given.`
-	- `I realize that you are probably still angry. That is pleasant to know. Much as your perpetual health, I have come to rely upon your dissatisfaction with me. It is one of the cosmere’s great constants, I should think.`
-	- `Let me first assure you that the element is quite safe. I have found a good home for it. I protect its safety like I protect my own skin, you might say.`
-	- `You do not agree with my quest. I understand that, so much as it is possible to understand someone with whom I disagree so completely.`
-	- `Might I be quite frank? Before, you asked why I was so concerned. It is for the following reason:`
-	- `Ati was once a kind and generous man, and you saw what became of him. Rayse, on the other hand, was among the most loathsome, crafty, and dangerous individuals I had ever met.`
-	- `He holds the most frightening and terrible of all of the Shards. Ponder on that for a time, you old reptile, and tell me if your insistence on nonintervention holds firm. Because I assure you, Rayse will not be similarly inhibited.`
 
-Ati era un buen hombre, y aun asi su esquirla (Ruina) lo convirtio y transformo en alguien malo. Ryse, sera el portador de la esquirla que se ha cargado a Honor. Es esquirla es algo malo de cojones, y Rayse ya era un hijo de puta antes de pillarla, asi que el autor esta asustado de que coño sera este tio ahora
 
-La conversacion es entre dios tios poderosos, uno de ellos reptiliano? que aboga por no intervenir (seguramente en Roshar con Rayse y su asesinato) mientras que el autor si que quiere intervenir. Personajes con este nivel de conocimiento no han salido muchos, y justamente uno de los que entra en esa descirpcion ya ha sido mencionado haciendo cositas por Roshar: Hoid, asi que es una alta posibilidad de que sea él.
 
-Tengo una pregunta para raul, Como de mucho sale Hoid en TSA? es como en mistborn que son meras menciones, o tiene un papel relevante? Pk el chapter de Ishikk es estilo Mistborn, donde es una mencion y ya, cameo y punto. Pero si esta carta es realmente Hoid y sobretodo sobretodo, si Wit es Hoid entonces su papel es muy relevante
 
 The Alethi War Codes
 
-The Origin
-- `looking eastward, toward the Origin—the distant, the unseen place where highstorms began.`
-- `His father said no ship had ever sailed for the Origin of Storms and returned safely`
+
 
 The Heraldic forces
 - `When the king had been given the initial estimate, he had brushed aside the deaths, indicating that they’d be rewarded for their valor with positions in the Heraldic Forces above.`
@@ -120,3 +140,10 @@ The weapon felt “right”
 `The Almighty calls all men back to the Spiritual Realm eventually`
 
 Hierocracy stuff, page 443 444
+
+
+
+
+
+Dos vecces sale una pista sobre los parshendi i el porque matan a gavilar → La bola negra que le da a szeth
+Sale tmb uns pista que no hemos visto sobre las esquirlas
